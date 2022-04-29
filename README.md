@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 
 
-<!--
-**mateushtt/mateushtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Mateus tenho 20 anos e estou no momento em busca de me tornar um desenvolvedor Backend. Bem no estilo zero to hero.
+Curso Análise e Desenvolvimento de Sistemas pela Fatec. 
 
-Here are some ideas to get you started:
+Sinta-se livre para entrar em contato comigo através de minhas redes sociais abaixo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a target="_blank" href="https://twitter.com/h3nriar">
+        <img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com">
+    </a>
+    <a target="_blank" href="https://www.instagram.com/henritteus/">
+        <img src="https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Fwww.instagram.com">
+    </a>
+</p>
